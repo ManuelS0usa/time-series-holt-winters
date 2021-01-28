@@ -1,3 +1,3 @@
-statsmodel
+statsmodels
 numpy
 matplotlib
