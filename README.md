@@ -1,2 +1,2 @@
 # time-series-holt-winters
-Time Series forecasting using Holt Winters algorithm
+Simple script for time series forecasting using Holt Winters algorithm
